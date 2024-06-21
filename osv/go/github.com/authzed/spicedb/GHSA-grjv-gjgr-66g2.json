@@ -1,6 +1,6 @@
 {
   "id": "GHSA-grjv-gjgr-66g2",
-  "modified": "2024-06-21T12:13:12.731486Z",
+  "modified": "2024-06-21T14:02:46Z",
   "published": "2024-06-20T16:24:01Z",
   "aliases": [
     "CGA-pfrr-qxjv-xmf4",
@@ -37,6 +37,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/authzed/spicedb/security/advisories/GHSA-grjv-gjgr-66g2"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-38361"
     },
     {
       "type": "WEB",

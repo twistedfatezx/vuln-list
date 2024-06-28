@@ -71,36 +71,6 @@
         "Identifier": "4.6.4"
       },
       "VulnerableVersionRange": "\u003e= 4.6.0, \u003c 4.6.4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.10.3"
-      },
-      "VulnerableVersionRange": "\u003e= 4.10.0, \u003c 4.10.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.9.5"
-      },
-      "VulnerableVersionRange": "\u003e= 4.9.0, \u003c 4.9.5"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.8.2"
-      },
-      "VulnerableVersionRange": "\u003e= 4.8.0, \u003c 4.8.2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.7.3"
-      },
-      "VulnerableVersionRange": "\u003e= 4.7.0, \u003c 4.7.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.6.4"
-      },
-      "VulnerableVersionRange": "\u003e= 4.6.0, \u003c 4.6.4"
     }
   ]
 }

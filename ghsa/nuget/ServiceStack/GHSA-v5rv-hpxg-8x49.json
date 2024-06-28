@@ -63,6 +63,12 @@
         "Identifier": "5.9.2"
       },
       "VulnerableVersionRange": "\u003c 5.9.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "5.9.2"
+      },
+      "VulnerableVersionRange": "\u003c 5.9.2"
     }
   ]
 }

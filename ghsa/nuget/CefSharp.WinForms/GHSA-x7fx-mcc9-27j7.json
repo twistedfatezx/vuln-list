@@ -54,6 +54,12 @@
         "Identifier": "86.0.241"
       },
       "VulnerableVersionRange": "\u003c 86.0.241"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "86.0.241"
+      },
+      "VulnerableVersionRange": "\u003c 86.0.241"
     }
   ]
 }

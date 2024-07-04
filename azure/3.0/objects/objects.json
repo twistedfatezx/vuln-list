@@ -1,9 +1,39 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:42616001",
+      "Version": "1",
+      "Name": "php"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42609001",
+      "Version": "1",
+      "Name": "libndp"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42439001",
+      "Version": "1",
+      "Name": "php"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42438001",
+      "Version": "1",
+      "Name": "php"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42433001",
+      "Version": "1",
+      "Name": "php"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:42330001",
       "Version": "2",
       "Name": "ig"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42318001",
+      "Version": "1",
+      "Name": "containerized-data-importer"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:42103001",
@@ -94,6 +124,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:41306001",
       "Version": "1",
       "Name": "sysbench"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:41275001",
+      "Version": "1",
+      "Name": "influxdb"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:41149001",
@@ -346,6 +381,16 @@
       "Name": "hyperv-daemons"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:40237001",
+      "Version": "0",
+      "Name": "bluez"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:40217001",
+      "Version": "1",
+      "Name": "bluez"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:40177001",
       "Version": "1",
       "Name": "kernel"
@@ -421,6 +466,11 @@
       "Name": "php"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:40052001",
+      "Version": "1",
+      "Name": "php"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:40016001",
       "Version": "1",
       "Name": "kubernetes"
@@ -474,6 +524,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:39708001",
       "Version": "1",
       "Name": "freeglut"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:39704001",
+      "Version": "1",
+      "Name": "telegraf"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:39694001",
@@ -716,6 +771,11 @@
       "Name": "python-tensorboard"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:38431001",
+      "Version": "1",
+      "Name": "telegraf"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:38425001",
       "Version": "1",
       "Name": "edk2"
@@ -911,6 +971,11 @@
       "Name": "nodejs"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:37112001",
+      "Version": "1",
+      "Name": "mariadb"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:37107001",
       "Version": "1",
       "Name": "emacs"
@@ -1071,9 +1136,29 @@
       "Name": "cmake"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:35752001",
+      "Version": "1",
+      "Name": "telegraf"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:35751001",
+      "Version": "1",
+      "Name": "telegraf"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:35750001",
+      "Version": "1",
+      "Name": "telegraf"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:35748001",
       "Version": "1",
       "Name": "rpm-ostree"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:35673001",
+      "Version": "1",
+      "Name": "telegraf"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:35662001",
@@ -2331,6 +2416,11 @@
       "Name": "grub2"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:34793001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:34792001",
       "Version": "1",
       "Name": "grub2"
@@ -2509,6 +2599,36 @@
       "ID": "oval:com.microsoft.azurelinux:obj:34739001",
       "Version": "1",
       "Name": "gnutls"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34737001",
+      "Version": "1",
+      "Name": "glibc"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34736001",
+      "Version": "1",
+      "Name": "glibc"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34735001",
+      "Version": "1",
+      "Name": "glibc"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34734001",
+      "Version": "1",
+      "Name": "glibc"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34733001",
+      "Version": "1",
+      "Name": "glibc"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34695001",
+      "Version": "1",
+      "Name": "gcc"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:34694001",

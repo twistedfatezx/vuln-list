@@ -48,6 +48,12 @@
         "Identifier": "5.2.2"
       },
       "VulnerableVersionRange": "\u003c 5.2.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "5.2.2"
+      },
+      "VulnerableVersionRange": "\u003c 5.2.2"
     }
   ]
 }

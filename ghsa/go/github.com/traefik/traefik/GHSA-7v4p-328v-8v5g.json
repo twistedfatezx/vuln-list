@@ -50,6 +50,18 @@
         "Identifier": "2.10.5"
       },
       "VulnerableVersionRange": "\u003c 2.10.5"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.0.0-beta4"
+      },
+      "VulnerableVersionRange": "\u003e= 3.0.0-beta1, \u003c 3.0.0-beta4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.10.5"
+      },
+      "VulnerableVersionRange": "\u003c 2.10.5"
     }
   ]
 }

@@ -16,7 +16,7 @@
     "Patchable": "true",
     "AdvisoryID": "34588-1",
     "Severity": "High",
-    "Description": "CVE-2023-39325 affecting package cert-manager for versions less than 1.11.2-5. A patched version of the package is available."
+    "Description": "CVE-2023-39325 affecting package cert-manager for versions less than 1.11.2-5. An upgraded version of the package is available that resolves this issue."
   },
   "Criteria": {
     "Operator": "AND",

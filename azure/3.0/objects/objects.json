@@ -1,6 +1,11 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:43109001",
+      "Version": "0",
+      "Name": "golang"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:42616001",
       "Version": "1",
       "Name": "php"
@@ -39,6 +44,26 @@
       "ID": "oval:com.microsoft.azurelinux:obj:42103001",
       "Version": "2",
       "Name": "fluent-bit"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42093001",
+      "Version": "0",
+      "Name": "libdwarf"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42090001",
+      "Version": "0",
+      "Name": "libdwarf"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42084001",
+      "Version": "0",
+      "Name": "libdwarf"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42081001",
+      "Version": "0",
+      "Name": "libdwarf"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:42064001",
@@ -2512,6 +2537,11 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:34761001",
+      "Version": "0",
+      "Name": "golang"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34760001",
       "Version": "0",
       "Name": "golang"
     },

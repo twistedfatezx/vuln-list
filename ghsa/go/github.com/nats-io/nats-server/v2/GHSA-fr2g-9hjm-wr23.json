@@ -69,18 +69,6 @@
         "Identifier": "2.9.23"
       },
       "VulnerableVersionRange": "\u003e= 2.2.0, \u003c 2.9.23"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.10.2"
-      },
-      "VulnerableVersionRange": "\u003e= 2.10.0, \u003c 2.10.2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.9.23"
-      },
-      "VulnerableVersionRange": "\u003e= 2.2.0, \u003c 2.9.23"
     }
   ]
 }

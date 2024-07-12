@@ -1771,6 +1771,11 @@
       "Name": "openvswitch"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:35087001",
+      "Version": "0",
+      "Name": "openvswitch"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:35086001",
       "Version": "1",
       "Name": "openssl"

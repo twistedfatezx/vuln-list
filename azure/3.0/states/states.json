@@ -3187,6 +3187,15 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:ste:35087002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:3.3.0-1.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:ste:35086002",
       "Version": "1",
       "Evr": {

@@ -74,6 +74,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package golang is earlier than 1.22.3-1, affected by CVE-2024-24789",
+      "ID": "oval:com.microsoft.azurelinux:tst:42354000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:42354001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:42354002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package ig is earlier than 0.29.0-1, affected by CVE-2024-3727",
       "ID": "oval:com.microsoft.azurelinux:tst:42330000",
       "Version": "2",
@@ -286,6 +298,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.azurelinux:ste:41659002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package libglvnd is earlier than 1.7.0-2, affected by CVE-2018-1000217",
+      "ID": "oval:com.microsoft.azurelinux:tst:41629000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:41629001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:41629002"
       }
     },
     {
@@ -6094,6 +6118,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.azurelinux:ste:34765002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package golang is earlier than 1.20.0-1, affected by CVE-2023-45287",
+      "ID": "oval:com.microsoft.azurelinux:tst:34764000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:34764001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:34764002"
       }
     },
     {

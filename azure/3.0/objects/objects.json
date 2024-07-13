@@ -31,6 +31,11 @@
       "Name": "php"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:42354001",
+      "Version": "0",
+      "Name": "golang"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:42330001",
       "Version": "2",
       "Name": "ig"
@@ -119,6 +124,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:41659001",
       "Version": "1",
       "Name": "systemd-bootstrap"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:41629001",
+      "Version": "0",
+      "Name": "libglvnd"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:41470001",
@@ -2537,6 +2547,11 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:34765001",
+      "Version": "0",
+      "Name": "golang"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34764001",
       "Version": "0",
       "Name": "golang"
     },

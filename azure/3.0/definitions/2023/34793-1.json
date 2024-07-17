@@ -17,7 +17,7 @@
     "AdvisoryDate": "2024-07-02T23:30:04Z",
     "AdvisoryID": "34793-1",
     "Severity": "Medium",
-    "Description": "CVE-2023-4001 affecting package grub2 for versions less than 2.12-1. An upgraded version of the package is available that resolves this issue."
+    "Description": "CVE-2023-4001 affecting package grub2 for versions less than 2.12-1. A patched version of the package is available."
   },
   "Criteria": {
     "Operator": "AND",

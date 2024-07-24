@@ -1,6 +1,61 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:45333001",
+      "Version": "1",
+      "Name": "openjpeg2"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:45282001",
+      "Version": "1",
+      "Name": "openjpeg2"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:45072001",
+      "Version": "1",
+      "Name": "openjpeg2"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:45009001",
+      "Version": "1",
+      "Name": "ppp"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:45006001",
+      "Version": "1",
+      "Name": "openjpeg2"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:44814001",
+      "Version": "1",
+      "Name": "openjpeg2"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:44712001",
+      "Version": "1",
+      "Name": "openjpeg2"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:44688001",
+      "Version": "1",
+      "Name": "LibRaw"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:44577001",
+      "Version": "1",
+      "Name": "openjpeg2"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:44172001",
+      "Version": "1",
+      "Name": "audiofile"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:44106001",
+      "Version": "1",
+      "Name": "openjpeg2"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:43109001",
       "Version": "0",
       "Name": "golang"

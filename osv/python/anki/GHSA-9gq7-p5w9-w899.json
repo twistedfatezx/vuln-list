@@ -1,7 +1,10 @@
 {
   "id": "GHSA-9gq7-p5w9-w899",
-  "modified": "2024-07-25T18:31:54.849779Z",
+  "modified": "2024-07-25T18:41:56.363613Z",
   "published": "2024-07-22T15:32:41Z",
+  "aliases": [
+    "CVE-2024-26020"
+  ],
   "summary": "Ankitects Anki arbitrary script execution vulnerability",
   "details": "An arbitrary script execution vulnerability exists in the MPV functionality of Ankitects Anki 24.04. A specially crafted flashcard can lead to a arbitrary code execution. An attacker can send malicious flashcard to trigger this vulnerability.",
   "affected": [

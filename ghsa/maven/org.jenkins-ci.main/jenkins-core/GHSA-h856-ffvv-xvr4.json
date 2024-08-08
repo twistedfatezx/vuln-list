@@ -17,6 +17,24 @@
         "Url": "https://www.jenkins.io/security/advisory/2024-08-07/#SECURITY-3430"
       },
       {
+        "Url": "https://github.com/jenkinsci/jenkins/commit/3f54c41b40db9e4ae7afa4209bc1ea91bb9175c0"
+      },
+      {
+        "Url": "https://github.com/jenkinsci/jenkins/commit/5d26b53ad3a5cd8c4a060eef4f56d75e65ca17a5"
+      },
+      {
+        "Url": "https://github.com/jenkinsci/jenkins/commit/cec49ce5d58048f66ac3fa88409a0d38dec09bf0"
+      },
+      {
+        "Url": "https://github.com/jenkinsci/remoting/commit/3277a8e88c9b807b9a989bd7e9176d2ec9834e47"
+      },
+      {
+        "Url": "https://github.com/jenkinsci/remoting/commit/409508a675ffc4ed9681e30bb46c8d9cb375b78c"
+      },
+      {
+        "Url": "https://github.com/jenkinsci/remoting/commit/858f3c9af69d4d216b26551ea51dde6e67479bb3"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-h856-ffvv-xvr4"
       }
     ],
@@ -35,7 +53,7 @@
     "PublishedAt": "2024-08-07T15:30:42Z",
     "Severity": "CRITICAL",
     "Summary": "Jenkins Remoting library arbitrary file read vulnerability",
-    "UpdatedAt": "2024-08-07T18:13:00Z",
+    "UpdatedAt": "2024-08-07T18:16:38Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.1,

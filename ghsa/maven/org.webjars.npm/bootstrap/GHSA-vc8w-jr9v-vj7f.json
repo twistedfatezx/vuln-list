@@ -1,9 +1,9 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2024-08-01T21:29:25Z",
+  "UpdatedAt": "2024-08-16T18:15:22Z",
   "Package": {
-    "Ecosystem": "NPM",
-    "Name": "bootstrap"
+    "Ecosystem": "MAVEN",
+    "Name": "org.webjars.npm:bootstrap"
   },
   "Advisory": {
     "DatabaseId": 253196,

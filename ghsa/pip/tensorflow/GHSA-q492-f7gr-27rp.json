@@ -38,7 +38,7 @@
     "PublishedAt": "2019-04-30T15:37:31Z",
     "Severity": "HIGH",
     "Summary": "Improper Restriction of Operations within the Bounds of a Memory Buffer in Google TensorFlow",
-    "UpdatedAt": "2023-09-01T20:03:18Z",
+    "UpdatedAt": "2024-08-23T22:28:20Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,

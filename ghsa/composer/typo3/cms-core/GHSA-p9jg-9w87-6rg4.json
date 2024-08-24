@@ -54,18 +54,6 @@
         "Identifier": "6.0.9"
       },
       "VulnerableVersionRange": "\u003e= 6.0, \u003c 6.0.9"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.1.4"
-      },
-      "VulnerableVersionRange": "\u003e= 6.1, \u003c 6.1.4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.0.9"
-      },
-      "VulnerableVersionRange": "\u003e= 6.0, \u003c 6.0.9"
     }
   ]
 }

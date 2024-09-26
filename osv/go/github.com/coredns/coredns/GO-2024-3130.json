@@ -1,7 +1,11 @@
 {
   "id": "GO-2024-3130",
-  "modified": "2024-09-25T17:42:57Z",
+  "modified": "2024-09-25T18:12:23.827876Z",
   "published": "2024-09-25T17:42:57Z",
+  "aliases": [
+    "CVE-2023-28452",
+    "GHSA-hfmw-7g3m-gj6q"
+  ],
   "summary": "CoreDNS vulnerable to TuDoor Attacks in github.com/coredns/coredns",
   "details": "CoreDNS vulnerable to TuDoor Attacks in github.com/coredns/coredns",
   "affected": [

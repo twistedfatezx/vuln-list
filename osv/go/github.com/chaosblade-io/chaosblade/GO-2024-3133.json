@@ -1,7 +1,11 @@
 {
   "id": "GO-2024-3133",
-  "modified": "2024-09-25T17:43:51Z",
+  "modified": "2024-09-25T18:12:25.367500Z",
   "published": "2024-09-25T17:43:51Z",
+  "aliases": [
+    "CVE-2023-47105",
+    "GHSA-723h-x37g-f8qm"
+  ],
   "summary": "Chaosblade vulnerable to OS command execution in github.com/chaosblade-io/chaosblade",
   "details": "Chaosblade vulnerable to OS command execution in github.com/chaosblade-io/chaosblade",
   "affected": [

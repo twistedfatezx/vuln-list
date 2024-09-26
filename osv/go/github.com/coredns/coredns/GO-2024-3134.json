@@ -1,7 +1,11 @@
 {
   "id": "GO-2024-3134",
-  "modified": "2024-09-25T17:43:58Z",
+  "modified": "2024-09-25T18:12:17.300755Z",
   "published": "2024-09-25T17:43:58Z",
+  "aliases": [
+    "CVE-2023-30464",
+    "GHSA-h92q-fgpp-qhrq"
+  ],
   "summary": "CoreDNS Cache Poisoning via a birthday attack in github.com/coredns/coredns",
   "details": "CoreDNS Cache Poisoning via a birthday attack in github.com/coredns/coredns",
   "affected": [

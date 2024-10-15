@@ -69,12 +69,6 @@
         "Identifier": "6.14.6"
       },
       "VulnerableVersionRange": "\u003c 6.14.6"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.14.6"
-      },
-      "VulnerableVersionRange": "\u003c 6.14.6"
     }
   ]
 }

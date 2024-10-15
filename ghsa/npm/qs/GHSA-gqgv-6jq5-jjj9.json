@@ -78,30 +78,6 @@
         "Identifier": "6.0.4"
       },
       "VulnerableVersionRange": "\u003c 6.0.4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.3.2"
-      },
-      "VulnerableVersionRange": "\u003e= 6.3.0, \u003c 6.3.2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.2.3"
-      },
-      "VulnerableVersionRange": "\u003e= 6.2.0, \u003c 6.2.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.1.2"
-      },
-      "VulnerableVersionRange": "\u003e= 6.1.0, \u003c 6.1.2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.0.4"
-      },
-      "VulnerableVersionRange": "\u003c 6.0.4"
     }
   ]
 }

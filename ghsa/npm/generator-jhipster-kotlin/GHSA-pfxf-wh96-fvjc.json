@@ -57,6 +57,12 @@
         "Identifier": "1.7.0"
       },
       "VulnerableVersionRange": "= 1.6.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1.7.0"
+      },
+      "VulnerableVersionRange": "= 1.6.0"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-08-29T20:40:43Z",
   "Package": {
     "Ecosystem": "PIP",
@@ -41,6 +41,15 @@
         "Url": "https://web.archive.org/web/20131103191705/https://plone.org/products/plone/security/advisories/20121106/14"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/plone/PYSEC-2014-40.yaml"
+      },
+      {
+        "Url": "https://plone.org/products/plone-hotfix/releases/20121106"
+      },
+      {
+        "Url": "https://plone.org/products/plone/security/advisories/20121106/14"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-97rj-p794-wq6m"
       }
     ],
@@ -57,13 +66,13 @@
     "Description": "queryCatalog.py in Plone before 4.2.3 and 4.3 before beta 1 allows remote attackers to bypass caching and cause a denial of service via a crafted request to a collection.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2022-05-17T04:01:59Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Plone denial of service via Caching Bypass",
-    "UpdatedAt": "2023-08-29T20:40:43Z",
+    "UpdatedAt": "2024-10-14T21:33:01Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [

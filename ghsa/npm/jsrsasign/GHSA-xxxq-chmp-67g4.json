@@ -75,6 +75,12 @@
         "Identifier": "8.0.18"
       },
       "VulnerableVersionRange": "\u003c 8.0.18"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "8.0.18"
+      },
+      "VulnerableVersionRange": "\u003c 8.0.18"
     }
   ]
 }

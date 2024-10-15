@@ -51,6 +51,12 @@
         "Identifier": "4.72.2"
       },
       "VulnerableVersionRange": "\u003c 4.72.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.72.2"
+      },
+      "VulnerableVersionRange": "\u003c 4.72.2"
     }
   ]
 }
